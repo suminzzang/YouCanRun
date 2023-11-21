@@ -2,7 +2,8 @@
 - 단순한 레이싱 게임은 이제 식상하시죠? 상대방을 방해하면서 게임을 즐겨보세요!
 
 ## 소개 및 시연 영상
-https://youtu.be/jMLmCj-o7fY?si=-lm6hbMjAT4RDOwm
+[![Video Label](http://img.youtube.com/vi/jMLmCj-o7fY/0.jpg)](https://youtu.be/'MLmCj-o7fY)
+https://youtu.be/jMLmCj-o7fY?si=Ugwf5F0PslvJ6mTh
 ## 개요
 친구들과 함께 즐기는 '메타버스 레이싱'! 친구들을 방해하며 먼저 결승점에 도달하세요
  - 스타크래프트 유즈맵 혈압마라톤, 폴가이즈, 테일즈러너에서 영감을 받아, 기본적은 게임 구조는 선착순 결승점 도달이지만, 중간중간 사용자들끼리 방해할 수 있는 요소를 집어넣어 색다른 재미를 줄 수 있는 게임입니다.
