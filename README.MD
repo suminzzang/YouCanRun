@@ -2,7 +2,7 @@
 - 단순한 레이싱 게임은 이제 식상하시죠? 상대방을 방해하면서 게임을 즐겨보세요!
 
 ## 소개 및 시연 영상
-[![Video Label](http://img.youtube.com/vi/jMLmCj-o7fY/0.jpg)](https://youtu.be/'MLmCj-o7fY)
+[![Video Label](http://img.youtube.com/vi/jMLmCj-o7fY?si=Ugwf5F0PslvJ6mTh/0.jpg)](https://youtu.be/jMLmCj-o7fY?si=Ugwf5F0PslvJ6mTh)
 https://youtu.be/jMLmCj-o7fY?si=Ugwf5F0PslvJ6mTh
 ## 개요
 친구들과 함께 즐기는 '메타버스 레이싱'! 친구들을 방해하며 먼저 결승점에 도달하세요
